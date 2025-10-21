@@ -24,5 +24,5 @@ My name is Rían McHale, a third year Computer Science (Forensics & Security) fr
 
 
 ## ⚡ Contact Me Here!
-- 💡 LinkedIn
+- 💡 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rianmchale)
 - 📧 Email: rianmchwork@gmail.com
