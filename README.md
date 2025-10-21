@@ -2,8 +2,8 @@
 
 My name is Rían McHale, a third year Computer Science (Forensics & Security) from [South East Technological University Waterford](https://www.setu.ie). I've been a tech enthusiast since I was young, while growing a passion for cybersecurity. Actively looking for an internship starting in January! Feel free to connect with me here:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Rian%20McHale-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rianmchale)](https://www.linkedin.com/in/rianmchale)
-[![Gmail Badge](https://img.shields.io/badge/-rianmchwork@gmailcom-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rianmchwork@gmailcom)](mailto:rianmchwork@gmailcom)
+[![Linkedin Badge](https://img.shields.io/badge/-rianmchale-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rianmchale/)](https://www.linkedin.com/in/rianmchale/)
+[![Gmail Badge](https://img.shields.io/badge/-rianmchwork@gmailcom-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rianmchwork@gmailcom)](mailto:rianmchwork@gmail.com)
 
 ## ⚡ Technical Skills
 
