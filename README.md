@@ -23,6 +23,11 @@ My name is Rían McHale, a third year Computer Science (Forensics & Security) fr
 ![Shuffle SOAR](https://img.shields.io/badge/-Shuffle%20SOAR-2F2F2F?style=flat-square)
 
 ## ⚡ Contact Me Here!
-<a href="https://www.linkedin.com/rianmchale" rel="nofollow noreferrer">
-  <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">LinkedIn
+<a href="https://www.linkedin.com/in/rianmchale" target="_blank" rel="nofollow noreferrer"
+   style="display:inline-flex;align-items:center;background-color:#0077B5;color:white;
+          font-family:Arial, sans-serif;font-weight:600;border-radius:6px;padding:6px 12px;
+          text-decoration:none;transition:background 0.3s;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       alt="LinkedIn" width="20" height="20" style="margin-right:8px;filter:invert(1);">
+  LinkedIn
 </a>
