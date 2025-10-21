@@ -24,5 +24,3 @@ My name is Rían McHale, a third year Computer Science (Forensics & Security) fr
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Shuffle SOAR](https://img.shields.io/badge/-Shuffle%20SOAR-2F2F2F?style=flat-square)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rianmchalei&count_private=true&show_icons=true&include_all_commits=true)
