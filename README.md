@@ -4,14 +4,14 @@ My name is Rían McHale, a third year Computer Science (Forensics & Security) fr
 
 ## ⚡ Technical Skills
 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -21,13 +21,8 @@ My name is Rían McHale, a third year Computer Science (Forensics & Security) fr
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Shuffle SOAR](https://img.shields.io/badge/-Shuffle%20SOAR-2F2F2F?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ⚡ Contact Me Here!
-<a href="https://www.linkedin.com/in/rianmchale" target="_blank" rel="nofollow noreferrer"
-   style="display:inline-flex;align-items:center;background-color:#0077B5;color:white;
-          font-family:Arial, sans-serif;font-weight:600;border-radius:6px;padding:6px 12px;
-          text-decoration:none;transition:background 0.3s;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-       alt="LinkedIn" width="20" height="20" style="margin-right:8px;filter:invert(1);">
-  LinkedIn
-</a>
+- 💡 LinkedIn
+- 📧 Email: rianmchwork@gmail.com
