@@ -24,5 +24,5 @@ My name is Rían McHale, a third year Computer Science (Forensics & Security) fr
 
 ## ⚡ Contact Me Here!
 <a href="https://www.linkedin.com/rianmchale" rel="nofollow noreferrer">
-  <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">LinkedIn
 </a>
