@@ -26,3 +26,6 @@ My name is Rían McHale, a third year Computer Science (Forensics & Security) fr
 ![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-2F2F2F?style=flat-square&logo=shuffle&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+![RianMcHale's Stats](https://github-readme-stats.vercel.app/api?username=RianMcHale&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![RianMcHale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RianMcHale&theme=tokyonight&hide_border=true)
+![RianMcHale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RianMcHale&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
