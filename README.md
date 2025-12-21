@@ -1,6 +1,6 @@
 ## Thanks for checking me out! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-My name is Rían McHale, a third year Computer Science (Forensics & Security) from [South East Technological University Waterford](https://www.setu.ie). I've been a tech enthusiast since I was young, while growing a passion for cybersecurity. Actively looking for an internship starting in January! Feel free to connect with below:
+My name is Rían McHale, a third year Computer Science (Forensics & Security) Student from [South East Technological University Waterford](https://www.setu.ie). I've been a tech enthusiast since I was young, while growing a passion for cybersecurity. Actively looking for an internship starting in January! Feel free to connect with below:
 
 ## ⚡ Contact Me Here!
 - 💡 <a href="https://www.linkedin.com/in/rianmchale" target="_blank">LinkedIn</a>
