@@ -18,6 +18,7 @@ security operations, and I'm looking for a graduate role starting in 2027.
 |---|---|---|
 | [Mini SIEM & SOAR]([https://github.com/RianMcHale/REPO-NAME](https://github.com/RianMcHale/Mini-SIEM-SOAR-Automation-System)) | Python, Splunk, Shuffle | Parses auth logs, detects brute-force bursts and volume anomalies, forwards alerts to Splunk via HEC |
 | [Container Security Scanner]([https://github.com/RianMcHale/REPO-NAME](https://github.com/RianMcHale/Container-Security-Scanner)) | Flask, Docker, Trivy, SQLite | Scans Docker images with Trivy, stores JSON reports, serves severity summaries over an Nginx UI |
+| [VetoScout] | TypeScript, React, Express, Node  | CS2 FACEIT Tournament veto advisor. Fetches data from the FACEIT API to compute map win rates, ban/pick frequency, recommendation and player stats + roles. |
 
 ## ⚡ Technical Skills
 
